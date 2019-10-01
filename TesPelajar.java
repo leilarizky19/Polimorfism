@@ -39,9 +39,5 @@ public class TesPelajar {
         System.out.println();
        
         p1.infoStatus();
-        
-        
-        
-        
-        
+               
 }}
